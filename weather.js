@@ -38,4 +38,6 @@ weatherData.querySelector(".details").innerHTML = details.map(
 
 }
 console.log("hi");
+console.log("hllflflfllflfi");
+
 
